@@ -1,4 +1,5 @@
-# React - Hardhat BoilerPlate
+# Mode domains.
+
 
 just clone it and run:
 
